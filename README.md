@@ -8,7 +8,7 @@ cse student
 Hello I am a CSE student from India. Currently in my first year .I love learning new things and technologies.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [av8686800@gmail.com](mailto:av8686800@gmail.com)
+* ✉️  You can contact me at [av868600@gmail.com](mailto:av8686800@gmail.com)
 * 🧠  I'm learning c++ and python
 
 <a href="https://www.x.com/_aryan_03" target="_blank" rel="noreferrer"><img
