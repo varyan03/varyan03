@@ -65,30 +65,4 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=varyan03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varyan03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=varyan03&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🏆 Badges
-<p align="center">
-  <a href="https://holopin.io/@varyan03">
-    <img src="https://holopin.me/varyan03" alt="Holopin Badges"/>
-  </a>
-</p>
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.a
